@@ -10,6 +10,10 @@
 - Smit Prajapati: [20bce233@nirmauni.ac.in](mailto:20bce233@nirmauni.ac.in)
 - Sanjay Prajapati: [20bce232@nirmauni.ac.in](mailto:20bce232@nirmauni.ac.in)
 
+## Dataset
+
+kaggle link : https://www.kaggle.com/datasets/nikhileswarkomati/suicide-watch
+
 ## Abstract
 According to one study, about 800,000 people commit suicide each year worldwide. Of these, 135,000 (17%) live in India, which makes up her 17.5% of the world’s population. One of the most important issues on the global stage is suicide rates. Suicide rates are skyrocketing every year. So authorities are using this to their advantage as this study is being conducted to predict the causes of suicide around the world by using machine learning algorithms and data mining techniques to identify the root causes of suicide. Prevent suicide by raising awareness and correcting the probable causes of suicide. This study used artificial neural networks (ANNs), support vector machines (SVMs), and machine learning techniques to examine patterns in suicide cases and predict reasons for impending suicide.
 
